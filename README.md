@@ -1,4 +1,4 @@
-## [![Louis header](https://github.com/bcmplx/bcmplx/blob/master/assets/images/githubProfile.png.png)](https://louisvillain-dev.com/)
+## [![Louis header](https://github.com/bcmplx/bcmplx/assets/images/githubProfile.png.png)](https://louisvillain-dev.com/)
 
 ### Hi there 👋
 
