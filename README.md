@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-- 🔭 I’m currently working on <a href="https://louisvillain-dev.com/">portfolio</a> projects !<br />
+- 🔭 I’m currently working on <a href="https://louisvillain-dev.netlify.app">portfolio</a> projects !<br />
 - 🌱 I’m currently mastering React <br />
 - 🤔 I’m looking for a job in Paris as Front-end Developer!<br />
 - ⚡ Fun fact: The French eat around 30,000 tons of snails a year 🐌 🍴<br />
